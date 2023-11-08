@@ -8,7 +8,7 @@ This is a command-line utility for viewing and modifying the access rights of fi
 3. Run the utility with the path to the file or directory as a command-line argument. For example:
 
     ```
-    .\ChangeAccessRights.exe "C:\example"
+    .\ChangeAccessRights.exe "C:\Example\"
     ```
 
     This will start the utility and display a menu with the following options:
