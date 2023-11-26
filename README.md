@@ -32,3 +32,7 @@ To change the access rights of the specified file or directory, enter `2` at the
 - Whether you want to add or remove these rights.
 
 After you've entered this information, the utility will change the access rights and display a confirmation message.
+
+## Author
+
+Bohdan Harabadzhyu
