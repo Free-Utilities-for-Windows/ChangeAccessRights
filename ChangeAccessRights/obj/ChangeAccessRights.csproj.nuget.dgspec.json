@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\RiderProjects\\ChangeAccessRights\\ChangeAccessRights\\ChangeAccessRights.csproj": {}
+    "C:\\Users\\User\\RiderProjects\\Free-Utilities-for-Windows\\ChangeAccessRights\\ChangeAccessRights\\ChangeAccessRights.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\RiderProjects\\ChangeAccessRights\\ChangeAccessRights\\ChangeAccessRights.csproj": {
+    "C:\\Users\\User\\RiderProjects\\Free-Utilities-for-Windows\\ChangeAccessRights\\ChangeAccessRights\\ChangeAccessRights.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\ChangeAccessRights\\ChangeAccessRights\\ChangeAccessRights.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Free-Utilities-for-Windows\\ChangeAccessRights\\ChangeAccessRights\\ChangeAccessRights.csproj",
         "projectName": "ChangeAccessRights",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\ChangeAccessRights\\ChangeAccessRights\\ChangeAccessRights.csproj",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\Free-Utilities-for-Windows\\ChangeAccessRights\\ChangeAccessRights\\ChangeAccessRights.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\ChangeAccessRights\\ChangeAccessRights\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\Free-Utilities-for-Windows\\ChangeAccessRights\\ChangeAccessRights\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +28,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/TheMysteriousStranger90/index.json": {}
         },
         "frameworks": {
           "net7.0": {
